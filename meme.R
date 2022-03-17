@@ -4,24 +4,25 @@ library(magick)
 # frame 1
 text <- image_blank(width = 500, height = 500, color = "gray88") %>%
   image_annotate(text = "when your r code doesn't work",
-                 color = "gray88",
-                 size = 20,
-                 font = "Century" )
+                 color = "#FF0000",
+                 size = 18,
+                 font = "Century",
+                 gravity = "center")
 
 # frame 2
-sad_face <- image_read("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxCLe1joVRdVm51RsltxBn5sjpltxNMxiNGQ&usqp=CAU")
+sad_face <- image_read("https://media.istockphoto.com/photos/stressed-out-working-late-picture-id1044392376?k=20&m=1044392376&s=612x612&w=0&h=lLLjPueZgNydxrBNoxxx63pVr0eoNFLDFj6p7jN3c6s=")
 meme <- image_write(sad_face, "my_meme.png")
 
 # frame 3
 frustrated_text <- image_blank(width = 500, height = 500, color = "#FFFF00") %>%
   image_annotate(text = "when you realise you forgot a bracket at the end of the code",
                  color = "#FF0000",
-                 size = 20,
-                 font =  "Comic Sans MS",
+                 size = 17,
+                 font =  "Century",
                  gravity = "center")
 
 # frame 4
-frustrated_face <- image_read("https://image.shutterstock.com/image-photo/why-that-beautiful-male-halflength-260nw-1294532842.jpg")
+frustrated_face <- image_read("https://cdn.pixabay.com/photo/2017/10/10/21/49/youtuber-2838945__480.jpg")
 my_meme <- image_write(frustrated_face, "my_meme.png")
 
 #making each row/column
@@ -34,4 +35,6 @@ meme <- c(top_row, bottom_row) %>%
   image_append(stack = TRUE) %>%
   image_scale(500)
 image_write(meme, "my_meme.png")
+
+
 
