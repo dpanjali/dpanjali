@@ -1,6 +1,6 @@
 👋 Hi, I’m @dpanjali! I am student at the University of Auckland, majoring in Statistics. This is a new learning journey for me so please bear with me as I might be a bit inexpereicend. Hope you enjoy!
 
-**This is _meme_ I made for the first time!**
+**This the is _meme_ I made for the first time!**
 
 
 
