@@ -12,5 +12,5 @@
 ![Screen Shot 2022-03-18 at 11 26 31 AM](https://user-images.githubusercontent.com/100880633/158904488-7ce76655-c709-4655-8865-e3405f33519a.png)
 
 
-A really short and unhelpful summary of my inspiration for the meme is:
+A really short and simple summary of my inspiration for the meme is:
 - As a statistician I struggle with this everyday!! So decided to make a meme on it :)
