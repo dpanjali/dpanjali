@@ -6,12 +6,14 @@
 
 ---
 
-## 🔧 Tech Stack
-- 📊 Data Analysis: Python, Pandas, NumPy, R
-- 🧠 ML Models: Logistic Regression, XGBoost, Random Forest
-- 💾 Databases: SQL (PostgreSQL, SQLite)
-- 📚 Visualization: Matplotlib, Seaborn
-- 🛠️ Tools: Jupyter, GitHub, Excel
+### 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 ---
 
