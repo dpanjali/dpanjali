@@ -25,12 +25,6 @@ Performed EDA and built a binary classifier to flag 15+ minute delays using real
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpanjali&show_icons=true)
-
----
-
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn]
