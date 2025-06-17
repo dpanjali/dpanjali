@@ -22,7 +22,7 @@
 ### 🛳️ [Titanic Survival Prediction](https://github.com/dpanjali/titanic-survival-prediction)
 Built classification models and feature engineering to predict survival on Titanic dataset. Achieved ~80% accuracy.
 
-### ✈️ [Flight Delay Analysis](https://github.com/dpanjali/flight-delay-analysis)
+### ✈️ [Flight Delay Analysis][(https://github.com/dpanjali/flight-delay-analysis)](https://github.com/dpanjali/Datacamp-Competition)
 Performed EDA and built a binary classifier to flag 15+ minute delays using real-world flight data.
 
 ---
