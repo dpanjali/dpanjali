@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepanjali Kumar
 
-<!--
-**dpanjali/dpanjali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Project Management student | 📊 Aspiring Data Analyst  
+🔍 Passionate about data insights, solving real-world problems  
+💡 Currently upskilling in Python, SQL, and Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- 📊 Data Analysis: Python, Pandas, NumPy, R
+- 🧠 ML Models: Logistic Regression, XGBoost, Random Forest
+- 💾 Databases: SQL (PostgreSQL, SQLite)
+- 📚 Visualization: Matplotlib, Seaborn
+- 🛠️ Tools: Jupyter, GitHub, Excel
+
+---
+
+## 📌 Featured Projects
+
+### 🛳️ [Titanic Survival Prediction](https://github.com/dpanjali/titanic-survival-prediction)
+Built classification models and feature engineering to predict survival on Titanic dataset. Achieved ~80% accuracy.
+
+### ✈️ [Flight Delay Analysis](https://github.com/dpanjali/flight-delay-analysis)
+Performed EDA and built a binary classifier to flag 15+ minute delays using real-world flight data.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpanjali&show_icons=true)
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn]
+- 📫 Email: dpanjalikumar@gmail.com
