@@ -30,4 +30,3 @@ Performed EDA and built a binary classifier to flag 15+ minute delays using real
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn]
-- 📫 Email: dpanjalikumar@gmail.com
