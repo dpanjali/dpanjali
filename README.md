@@ -2,7 +2,7 @@
 
 🎓 Project Management student | 📊 Aspiring Data Analyst  
 🔍 Passionate about data insights, solving real-world problems  
-💡 Currently upskilling in Python, SQL, and Machine Learning
+💡 Currently upskilling in Python, SQL, PowerBi and Machine Learning
 
 ---
 
