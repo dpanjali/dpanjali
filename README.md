@@ -16,17 +16,21 @@
 
 
 ---
+## 🚀 Featured Projects
 
-## 📌 Featured Projects
-
-### 🛳️ [Titanic Survival Prediction](https://github.com/dpanjali/Titanic)
+🚢 [Titanic Survival Prediction](https://github.com/dpanjali/Titanic)  
 Built classification models and feature engineering to predict survival on Titanic dataset. Achieved ~80% accuracy.
 
-### ✈️ [Flight Delay Analysis](https://github.com/dpanjali/Datacamp-Competition)
+✈️ [Flight Delay Analysis](https://github.com/dpanjali/FlightDelay_Analysis)  
 Performed EDA and built a binary classifier to flag 15+ minute delays using real-world flight data.
+
+🛡️ [Fraud Detection – ASB Bank](https://github.com/dpanjali/FraudDetection)  
+Built fraud detection models using R (XGBoost, LightGBM, Random Forest) on synthetic transaction data.  
+Recommended a two-tier flagging system based on transaction risk to improve customer security and reduce financial loss.
+
 
 ---
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn]
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepanjali-kumar-2a5518186/)
