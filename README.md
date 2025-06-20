@@ -6,6 +6,14 @@
 
 ---
 
+### 🔍 What I Do
+
+- **Data Cleaning & Transformation**: Skilled in reshaping messy datasets using Python (pandas, NumPy), Power Query, and SQL  
+- **Data Analysis & Visualization**: Analyze trends and patterns using Python and R; currently learning to build dashboards in Power BI and Excel  
+- **Reporting**: I focus on building reports and presenting insights in ways that make sense to both technical and non-technical audiences
+
+---
+
 ### 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -13,7 +21,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+![SPSS](https://img.shields.io/badge/SPSS-FF6F61?style=for-the-badge)
 
 ---
 ## 🚀 Featured Projects
@@ -28,6 +36,12 @@ Performed EDA and built a binary classifier to flag 15+ minute delays using real
 Built fraud detection models using R (XGBoost, LightGBM, Random Forest) on synthetic transaction data.  
 Recommended a two-tier flagging system based on transaction risk to improve customer security and reduce financial loss.
 
+
+---
+
+### 💡 What I Care About
+
+I believe in the power of data to solve real-world challenges, and I want to leverage analytics to create meaningful impact.
 
 ---
 
