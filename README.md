@@ -19,7 +19,7 @@
 
 ## 📌 Featured Projects
 
-### 🛳️ [Titanic Survival Prediction](https://github.com/dpanjali/titanic-survival-prediction)
+### 🛳️ [Titanic Survival Prediction](https://github.com/dpanjali/Titanic)
 Built classification models and feature engineering to predict survival on Titanic dataset. Achieved ~80% accuracy.
 
 ### ✈️ [Flight Delay Analysis](https://github.com/dpanjali/Datacamp-Competition)
