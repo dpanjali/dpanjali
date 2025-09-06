@@ -37,7 +37,7 @@ Performed EDA and built a binary classifier to flag 15+ minute delays using real
 Built fraud detection models using R (XGBoost, LightGBM, Random Forest) on synthetic transaction data.  
 Recommended a two-tier flagging system based on transaction risk to improve customer security and reduce financial loss.
 
-📊 [University Rankings x Country Statistics – Star Schema + SQL Analysis](https://github.com/dpanjali/UniversityRanking_SQLWarehouse)  
+📊 [University Rankings x Country Statistics – Star Schema + SQL Analysis](https://github.com/dpanjali/UniversityRanking_SQLWarehouse)
 Designed and implemented a full SQLite data warehouse using star schema.  
 Wrote advanced SQL to analyze how GDP, literacy, and development status affect global university performance.
 
