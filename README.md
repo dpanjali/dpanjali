@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Deepanjali Kumar
 
-🎓 Project Management student | 📊 Aspiring Data Analyst  
-🔍 Passionate about data insights, solving real-world problems  
-💡 Currently upskilling in Python, SQL, PowerBi and Machine Learning
+# Kia ora, I'm Deepanjali 👋
+
+📊 I'm a Master of Business Analytics graduate who enjoys turning messy data into clear insights, useful dashboards and practical recommendations.
+
+💼 My background combines business operations, data analysis and supply chain analytics. I use Power BI, SQL, Python and Excel to explore trends, solve real-world problems and communicate the **“so what?”** behind the numbers.
+
+🚀 Most recently, I developed an end-to-end import dependency and supply chain risk dashboard for an MBIE industry project, analysing New Zealand’s trade patterns and supplier concentration.
 
 ---
 
