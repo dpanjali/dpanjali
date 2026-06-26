@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Deepanjali Kumar
 
-# Kia ora, I'm Deepanjali 👋
-
 📊 I'm a Master of Business Analytics graduate who enjoys turning messy data into clear insights, useful dashboards and practical recommendations.
 
 💼 My background combines business operations, data analysis and supply chain analytics. I use Power BI, SQL, Python and Excel to explore trends, solve real-world problems and communicate the **“so what?”** behind the numbers.
