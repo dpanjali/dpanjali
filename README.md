@@ -4,7 +4,7 @@
 
 💼 My background combines business operations, data analysis and supply chain analytics. I use Power BI, SQL, Python and Excel to explore trends, solve real-world problems and communicate the **“so what?”** behind the numbers.
 
-🚀 Most recently, I developed an end-to-end import dependency and supply chain risk dashboard for an MBIE industry project, analysing New Zealand’s trade patterns and supplier concentration.
+🚀 Most recently, I developed an end-to-end import dependency and supply chain risk dashboard as part of an industry project involving MBIE, analysing New Zealand trade patterns and supplier concentration.
 
 ---
 
