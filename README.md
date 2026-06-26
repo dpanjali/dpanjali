@@ -10,10 +10,10 @@
 
 ### 🔍 What I Do
 
-- **Data Cleaning & Transformation**: Skilled in reshaping messy datasets using Python (pandas, NumPy), Power Query, and SQL  
-- **Data Analysis & Visualization**: Analyze trends and patterns using Python and R; currently learning to build dashboards in Power BI and Excel  
-- **Reporting**: I focus on building reports and presenting insights in ways that make sense to both technical and non-technical audiences
-
+- **Data Cleaning & Transformation:** Clean, reshape and validate complex datasets using Python, pandas, Power Query, SQL and Excel.
+- **Data Analysis & Visualisation:** Analyse trends, risks and performance patterns using Power BI, Python, R and Excel, and turn findings into clear, interactive dashboards.
+- **Business & Supply Chain Analytics:** Apply analytics to supplier concentration, import dependency, operational performance and business decision-making.
+- **Reporting & Communication:** Present insights in a way that makes sense to both technical and non-technical audiences, with a strong focus on communicating the **“so what?”** behind the analysis.
 ---
 
 ### 🧰 Tech Stack
